@@ -1,5 +1,7 @@
 # Benchmarking Federated Learning on High Performance Computing Aggregation Methods and Their Impact
 
+This is the implemetation code for the paper (link): Daniela Annunziata, Marzia Canzaniello, Martina Savoia, Salvatore Cuomo, Francesco Piccialli, Benchmarking Federated Learning on High Performance Computing Aggregation Methods and Their Impact.
+
 **Abstract**
 
 Federated Learning (FL) diverges from traditional Machine Learning (ML) models decentralizing data utilization, addressing privacy concerns. 
